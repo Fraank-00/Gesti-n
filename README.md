@@ -22,3 +22,8 @@ Para instalar y ejecutar el proyecto en tu máquina local, sigue estos pasos:
    cd tu-repositorio
 
 2. **Instalar las dependencias del back y font**
+
+3. Contribuciones
+Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para sugerir mejoras o correcciones.
+
+gracias....!!
